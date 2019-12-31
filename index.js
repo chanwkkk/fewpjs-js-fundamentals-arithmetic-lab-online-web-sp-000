@@ -6,4 +6,4 @@ let multiply = num1*num2
 
 let random = Math.floor(Math.random()+1)
 
-let mod = 16/4
+let mod = 34%5
