@@ -1,3 +1,3 @@
 
 // Write your code here
-let multiply = num1*num2
+let multiply = 31*2
